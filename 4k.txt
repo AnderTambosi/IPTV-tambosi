@@ -1,0 +1,784 @@
+#EXTM3U size="Medium"EXTINF:-1 type="video" tvg-id="Piscina Infinita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwhmoL0yvjV9BDsDStGJ79cf95Q.jpg" description="",Piscina Infinita
+http://lismeo.com/movie/tambosi/zSv4UR/391126.mp4
+#EXTINF:-1 type="video" tvg-id="Pinóquio por Guillermo Del Toro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x3IkO2sW4rSSVluFDz8isr6YDm8.jpg" description="",Pinóquio por Guillermo Del Toro
+http://lismeo.com/movie/tambosi/zSv4UR/391130.mp4
+#EXTINF:-1 type="video" tvg-id="Pinóquio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg" description="",Pinóquio
+http://lismeo.com/movie/tambosi/zSv4UR/391131.mp4
+#EXTINF:-1 type="video" tvg-id="Peter Pan & Wendy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkWxiUsc32qJHLwt7vt5AvUFNlx.jpg" description="",Peter Pan & Wendy
+http://lismeo.com/movie/tambosi/zSv4UR/391134.mp4
+#EXTINF:-1 type="video" tvg-id="Perseguição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSwYyxa12OqcrVnW6qPGqIBFyh2.jpg" description="",Perseguição
+http://lismeo.com/movie/tambosi/zSv4UR/391144.mp4
+#EXTINF:-1 type="video" tvg-id="Perdido em Marte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNTPHfPdCfmC5P9Vt7fp53GgVsy.jpg" description="",Perdido em Marte
+http://lismeo.com/movie/tambosi/zSv4UR/391146.mp4
+#EXTINF:-1 type="video" tvg-id="Pelé" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg" description="",Pelé
+http://lismeo.com/movie/tambosi/zSv4UR/391152.mp4
+#EXTINF:-1 type="video" tvg-id="Pearl: Uma História de Origem 'X'" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTgLkhIMmzwH1NAaq7NDbFN20zi.jpg" description="",Pearl: Uma História de Origem 'X'
+http://lismeo.com/movie/tambosi/zSv4UR/391155.mp4
+#EXTINF:-1 type="video" tvg-id="Passei por Aqui" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txyWmAMhoy6liIueQhBnjqcbrSr.jpg" description="",Passei por Aqui
+http://lismeo.com/movie/tambosi/zSv4UR/391162.mp4
+#EXTINF:-1 type="video" tvg-id="Passagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w8ou6xUQjXDPXmAz1gnrrpaHsHg.jpg" description="",Passagem
+http://lismeo.com/movie/tambosi/zSv4UR/391163.mp4
+#EXTINF:-1 type="video" tvg-id="Para Todos os Garotos: P.S. Ainda Amo Você" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpdtbzeEImp5eT5wmwhVHhbklAk.jpg" description="",Para Todos os Garotos: P.S. Ainda Amo Você
+http://lismeo.com/movie/tambosi/zSv4UR/391164.mp4
+#EXTINF:-1 type="video" tvg-id="Pantera Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9D40jv8pi9uKnrVDPiN3JYYad72.jpg" description="",Pantera Negra
+http://lismeo.com/movie/tambosi/zSv4UR/391173.mp4
+#EXTINF:-1 type="video" tvg-id="Pantera Negra: Wakanda para Sempre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nZ69WTv7n01womaNz3SHa4inA9x.jpg" description="",Pantera Negra: Wakanda para Sempre
+http://lismeo.com/movie/tambosi/zSv4UR/391174.mp4
+#EXTINF:-1 type="video" tvg-id="Overdose" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RvM4wawLRlX608FgZr9kL8CLmy.jpg" description="",Overdose
+http://lismeo.com/movie/tambosi/zSv4UR/391175.mp4
+#EXTINF:-1 type="video" tvg-id="Os Três Mosqueteiros: D’Artagnan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tps40YlcyllmGLAOrAHUez72CQA.jpg" description="",Os Três Mosqueteiros: D’Artagnan
+http://lismeo.com/movie/tambosi/zSv4UR/391180.mp4
+#EXTINF:-1 type="video" tvg-id="Os Novos Mutantes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg" description="",Os Novos Mutantes
+http://lismeo.com/movie/tambosi/zSv4UR/391183.mp4
+#EXTINF:-1 type="video" tvg-id="Os Croods 2: Uma Nova Era" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vRTScutueW9gLF3dSo2Za7o0v7n.jpg" description="",Os Croods 2: Uma Nova Era
+http://lismeo.com/movie/tambosi/zSv4UR/391186.mp4
+#EXTINF:-1 type="video" tvg-id="Os Cavaleiros do Zodíaco - Saint Seiya: O Começo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg" description="",Os Cavaleiros do Zodíaco - Saint Seiya: O Começo
+http://lismeo.com/movie/tambosi/zSv4UR/391195.mp4
+#EXTINF:-1 type="video" tvg-id="Operação Cerveja" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/purjgeOOOZKJ9MIHTyGdAJ0LsJE.jpg" description="",Operação Cerveja
+http://lismeo.com/movie/tambosi/zSv4UR/391196.mp4
+#EXTINF:-1 type="video" tvg-id="Olhos Famintos 4: Renascimento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/37xwMszfSsl1PVjaFXvKeB0nETa.jpg" description="",Olhos Famintos 4: Renascimento
+http://lismeo.com/movie/tambosi/zSv4UR/391197.mp4
+#EXTINF:-1 type="video" tvg-id="Oferenda ao Demônio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI8sI9pQuJmdYJgp6JuPIPg7Rqx.jpg" description="",Oferenda ao Demônio
+http://lismeo.com/movie/tambosi/zSv4UR/391202.mp4
+#EXTINF:-1 type="video" tvg-id="Obsessão Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQRwtMCDKVqNm88A1CMg0Tj7dpq.jpg" description="",Obsessão Secreta
+http://lismeo.com/movie/tambosi/zSv4UR/391205.mp4
+#EXTINF:-1 type="video" tvg-id="O Urso do Pó Branco" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2tS3f9s386fitoHjDMvQGm2w8q.jpg" description="",O Urso do Pó Branco
+http://lismeo.com/movie/tambosi/zSv4UR/391206.mp4
+#EXTINF:-1 type="video" tvg-id="O Último Duelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg" description="",O Último Duelo
+http://lismeo.com/movie/tambosi/zSv4UR/391212.mp4
+#EXTINF:-1 type="video" tvg-id="O Telefone Preto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yw6H4C64tjBWlyKFG1pzmq5zOQh.jpg" description="",O Telefone Preto
+http://lismeo.com/movie/tambosi/zSv4UR/391215.mp4
+#EXTINF:-1 type="video" tvg-id="O Som do Silêncio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjKlQJlWtP61ZN4WKbcSVHzjqq8.jpg" description="",O Som do Silêncio
+http://lismeo.com/movie/tambosi/zSv4UR/391217.mp4
+#EXTINF:-1 type="video" tvg-id="O Som do Caos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yka6u5dbx1vWoMrNIHHutluaepp.jpg" description="",O Som do Caos
+http://lismeo.com/movie/tambosi/zSv4UR/391220.mp4
+#EXTINF:-1 type="video" tvg-id="O Retorno de Mary Poppins" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg" description="",O Retorno de Mary Poppins
+http://lismeo.com/movie/tambosi/zSv4UR/391223.mp4
+#EXTINF:-1 type="video" tvg-id="O Resgate de Ruby" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg" description="",O Resgate de Ruby
+http://lismeo.com/movie/tambosi/zSv4UR/391227.mp4
+#EXTINF:-1 type="video" tvg-id="O Rei Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg" description="",O Rei Leão
+http://lismeo.com/movie/tambosi/zSv4UR/391228.mp4
+#EXTINF:-1 type="video" tvg-id="O Protetor 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/REWunAyKGCbxvg2UJGMEHuQd2c.jpg" description="",O Protetor 2
+http://lismeo.com/movie/tambosi/zSv4UR/391229.mp4
+#EXTINF:-1 type="video" tvg-id="O Primeiro Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg" description="",O Primeiro Homem
+http://lismeo.com/movie/tambosi/zSv4UR/391237.mp4
+#EXTINF:-1 type="video" tvg-id="O Peso do Talento" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l814mpV0kU3TH3HfZpgKM62zRan.jpg" description="",O Peso do Talento
+http://lismeo.com/movie/tambosi/zSv4UR/391240.mp4
+#EXTINF:-1 type="video" tvg-id="O Pálido Olho Azul" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x98eB1JokifNYRcgyxyMf4TQbsO.jpg" description="",O Pálido Olho Azul
+http://lismeo.com/movie/tambosi/zSv4UR/391242.mp4
+#EXTINF:-1 type="video" tvg-id="O Pai da Noiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6605qfGpSGqNcUNY0nUgeE5z01v.jpg" description="",O Pai da Noiva
+http://lismeo.com/movie/tambosi/zSv4UR/391244.mp4
+#EXTINF:-1 type="video" tvg-id="O Pacto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg" description="",O Pacto
+http://lismeo.com/movie/tambosi/zSv4UR/391247.mp4
+#EXTINF:-1 type="video" tvg-id="O Nascimento do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKbnk16Af4E34fAK7L7K5GSgpIV.jpg" description="",O Nascimento do Mal
+http://lismeo.com/movie/tambosi/zSv4UR/391250.mp4
+#EXTINF:-1 type="video" tvg-id="O Mistério do Relógio na Parede" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nu63HA3CkIq245FphWi2zCObLVJ.jpg" description="",O Mistério do Relógio na Parede
+http://lismeo.com/movie/tambosi/zSv4UR/391254.mp4
+#EXTINF:-1 type="video" tvg-id="O Menu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxNelQvAjOmNGUUHRujmsHiPEIh.jpg" description="",O Menu
+http://lismeo.com/movie/tambosi/zSv4UR/391256.mp4
+#EXTINF:-1 type="video" tvg-id="O Menino Que Queria Ser Rei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vKIfYhDlVt92kvWRLa0wQy73Pi2.jpg" description="",O Menino Que Queria Ser Rei
+http://lismeo.com/movie/tambosi/zSv4UR/391259.mp4
+#EXTINF:-1 type="video" tvg-id="O Melhor Amigo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQKKigyzTPfU10UUVnCZYTh8bGC.jpg" description="",O Melhor Amigo
+http://lismeo.com/movie/tambosi/zSv4UR/391263.mp4
+#EXTINF:-1 type="video" tvg-id="O Mapa das Pequenas Coisas Perfeitas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/djMLMmgVQ3MBEj2vHipBki5d5ol.jpg" description="",O Mapa das Pequenas Coisas Perfeitas
+http://lismeo.com/movie/tambosi/zSv4UR/391264.mp4
+#EXTINF:-1 type="video" tvg-id="O Lobo E O Leão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg" description="",O Lobo E O Leão
+http://lismeo.com/movie/tambosi/zSv4UR/391265.mp4
+#EXTINF:-1 type="video" tvg-id="O Limite da Traição" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg" description="",O Limite da Traição
+http://lismeo.com/movie/tambosi/zSv4UR/391274.mp4
+#EXTINF:-1 type="video" tvg-id="O Lendário Cão Guerreiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zwS6boYHEUOgQUMVrAFAPk9J0zF.jpg" description="",O Lendário Cão Guerreiro
+http://lismeo.com/movie/tambosi/zSv4UR/391275.mp4
+#EXTINF:-1 type="video" tvg-id="O Jogo de Amor – 'Odio'" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg" description="",O Jogo de Amor – 'Odio'
+http://lismeo.com/movie/tambosi/zSv4UR/391276.mp4
+#EXTINF:-1 type="video" tvg-id="O Homem Invisível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67gVCA33yHpFkFyqhDJrt21MvYI.jpg" description="",O Homem Invisível
+http://lismeo.com/movie/tambosi/zSv4UR/391282.mp4
+#EXTINF:-1 type="video" tvg-id="O Grinch" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg" description="",O Grinch
+http://lismeo.com/movie/tambosi/zSv4UR/391285.mp4
+#EXTINF:-1 type="video" tvg-id="O Grande Mestre 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" description="",O Grande Mestre 4
+http://lismeo.com/movie/tambosi/zSv4UR/391287.mp4
+#EXTINF:-1 type="video" tvg-id="O Grande Ivan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg" description="",O Grande Ivan
+http://lismeo.com/movie/tambosi/zSv4UR/391290.mp4
+#EXTINF:-1 type="video" tvg-id="O Exterminador do Futuro: Destino Sombrio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/14595EXiEksBAJzhqwJCGacRc2S.jpg" description="",O Exterminador do Futuro: Destino Sombrio
+http://lismeo.com/movie/tambosi/zSv4UR/391293.mp4
+#EXTINF:-1 type="video" tvg-id="O Exorcista do Papa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg" description="",O Exorcista do Papa
+http://lismeo.com/movie/tambosi/zSv4UR/391296.mp4
+#EXTINF:-1 type="video" tvg-id="O Exorcismo da Minha Melhor Amiga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAmkfhNzINNoaWkE70927FCpBX2.jpg" description="",O Exorcismo da Minha Melhor Amiga
+http://lismeo.com/movie/tambosi/zSv4UR/391301.mp4
+#EXTINF:-1 type="video" tvg-id="O Enfermeiro da Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg" description="",O Enfermeiro da Noite
+http://lismeo.com/movie/tambosi/zSv4UR/391302.mp4
+#EXTINF:-1 type="video" tvg-id="O Diabo de Cada Dia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spqWjgLWvWlluIodXFn1SsNtISC.jpg" description="",O Diabo de Cada Dia
+http://lismeo.com/movie/tambosi/zSv4UR/391303.mp4
+#EXTINF:-1 type="video" tvg-id="O Declínio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99Chy9sKuDqbav6rcjecCQI4Mzq.jpg" description="",O Declínio
+http://lismeo.com/movie/tambosi/zSv4UR/391312.mp4
+#EXTINF:-1 type="video" tvg-id="O Conde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUYn97rRvnw7TkQbBhnt0WsU3JM.jpg" description="",O Conde
+http://lismeo.com/movie/tambosi/zSv4UR/391313.mp4
+#EXTINF:-1 type="video" tvg-id="O Chamado da Floresta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SIlV2p8355FAuKTGje9ZgtXujN.jpg" description="",O Chamado da Floresta
+http://lismeo.com/movie/tambosi/zSv4UR/391314.mp4
+#EXTINF:-1 type="video" tvg-id="O Céu Está em Todo Lugar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hJPsIaBEReV2byAUqUelqQKimy2.jpg" description="",O Céu Está em Todo Lugar
+http://lismeo.com/movie/tambosi/zSv4UR/391318.mp4
+#EXTINF:-1 type="video" tvg-id="O Canto do Cisne" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9p1n7ii8LgMkdfPjIHn9fHxSotk.jpg" description="",O Canto do Cisne
+http://lismeo.com/movie/tambosi/zSv4UR/391319.mp4
+#EXTINF:-1 type="video" tvg-id="O Bingo Macabro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/86VKuiaox9eVJTETel0ld7XZtiO.jpg" description="",O Bingo Macabro
+http://lismeo.com/movie/tambosi/zSv4UR/391320.mp4
+#EXTINF:-1 type="video" tvg-id="O Beco do Pesadelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nndZUt9Lf8ZwefYBTGe5opGLJuY.jpg" description="",O Beco do Pesadelo
+http://lismeo.com/movie/tambosi/zSv4UR/391328.mp4
+#EXTINF:-1 type="video" tvg-id="O Banqueiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwcHBtJBbL0ku0Lf3mpTHEwa69y.jpg" description="",O Banqueiro
+http://lismeo.com/movie/tambosi/zSv4UR/391330.mp4
+#EXTINF:-1 type="video" tvg-id="O Balconista 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqkD9kVLULmbMdeCJKktriaUnC1.jpg" description="",O Balconista 3
+http://lismeo.com/movie/tambosi/zSv4UR/391331.mp4
+#EXTINF:-1 type="video" tvg-id="O Assassino Perfeito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg" description="",O Assassino Perfeito
+http://lismeo.com/movie/tambosi/zSv4UR/391333.mp4
+#EXTINF:-1 type="video" tvg-id="O Amor Mandou Mensagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3SntheUQWJysPSZGcegQj473Pq.jpg" description="",O Amor Mandou Mensagem
+http://lismeo.com/movie/tambosi/zSv4UR/391336.mp4
+#EXTINF:-1 type="video" tvg-id="O Alfaiate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg" description="",O Alfaiate
+http://lismeo.com/movie/tambosi/zSv4UR/391339.mp4
+#EXTINF:-1 type="video" tvg-id="Notre-Dame: Desastre em Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Qe6fhD4seSPhprEx6VPTjfIXWo.jpg" description="",Notre-Dame: Desastre em Paris
+http://lismeo.com/movie/tambosi/zSv4UR/391344.mp4
+#EXTINF:-1 type="video" tvg-id="Nós" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cspS3tIltAhJBo5Fjan3DTNCsRX.jpg" description="",Nós
+http://lismeo.com/movie/tambosi/zSv4UR/391345.mp4
+#EXTINF:-1 type="video" tvg-id="Nomadland" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/589uhtJOujc72fgNl6HcMYJS64D.jpg" description="",Nomadland
+http://lismeo.com/movie/tambosi/zSv4UR/391347.mp4
+#EXTINF:-1 type="video" tvg-id="Noites Brutais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg" description="",Noites Brutais
+http://lismeo.com/movie/tambosi/zSv4UR/391355.mp4
+#EXTINF:-1 type="video" tvg-id="Noitários de Arrepiar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NTrSviwKL8GxGySG0n1ooyiFMA.jpg" description="",Noitários de Arrepiar
+http://lismeo.com/movie/tambosi/zSv4UR/391356.mp4
+#EXTINF:-1 type="video" tvg-id="No Ritmo do Coração" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rnEcFnQYgZ6mmxeeaEeLNSZdgD8.jpg" description="",No Ritmo do Coração
+http://lismeo.com/movie/tambosi/zSv4UR/391357.mp4
+#EXTINF:-1 type="video" tvg-id="Nicarágua: Liberdade Exilada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQHYtI1LFZjv0zss12fm7XX7bfm.jpg" description="",Nicarágua: Liberdade Exilada
+http://lismeo.com/movie/tambosi/zSv4UR/391366.mp4
+#EXTINF:-1 type="video" tvg-id="Nasce uma Estrela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8CNgb0AtZz7CSORffdwODK66iK.jpg" description="",Nasce uma Estrela
+http://lismeo.com/movie/tambosi/zSv4UR/391367.mp4
+#EXTINF:-1 type="video" tvg-id="Não! Não Olhe!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4UrPqi9qBhZFoVwtK443vviKz8B.jpg" description="",Não! Não Olhe!
+http://lismeo.com/movie/tambosi/zSv4UR/391368.mp4
+#EXTINF:-1 type="video" tvg-id="Não Se Preocupe, Querida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkEuGtrwmQwk7U3FYzIYhmAwDhG.jpg" description="",Não Se Preocupe, Querida
+http://lismeo.com/movie/tambosi/zSv4UR/391371.mp4
+#EXTINF:-1 type="video" tvg-id="Não Olhe para Cima" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sc7Tjt7aPsdghYK32mDMFeZkqJ.jpg" description="",Não Olhe para Cima
+http://lismeo.com/movie/tambosi/zSv4UR/391374.mp4
+#EXTINF:-1 type="video" tvg-id="Não Devíamos Ter Crescido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWwr0mLfuA7j65BiCISmMUbDmK4.jpg" description="",Não Devíamos Ter Crescido
+http://lismeo.com/movie/tambosi/zSv4UR/391377.mp4
+#EXTINF:-1 type="video" tvg-id="Nada de Novo no Front" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg" description="",Nada de Novo no Front
+http://lismeo.com/movie/tambosi/zSv4UR/391384.mp4
+#EXTINF:-1 type="video" tvg-id="Na Sua Casa ou na Minha?" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7OCBWL0CngPMwe4b0iEsGxrlYg.jpg" description="",Na Sua Casa ou na Minha?
+http://lismeo.com/movie/tambosi/zSv4UR/391385.mp4
+#EXTINF:-1 type="video" tvg-id="Mundo Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg" description="",Mundo Estranho
+http://lismeo.com/movie/tambosi/zSv4UR/391386.mp4
+#EXTINF:-1 type="video" tvg-id="Mundo em Caos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMSumadgRiygK1DUtBurdnZb9Jz.jpg" description="",Mundo em Caos
+http://lismeo.com/movie/tambosi/zSv4UR/391395.mp4
+#EXTINF:-1 type="video" tvg-id="Mulher-Gato: A Caçada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqcoz5xQx6UTKHrqrMyiGiJY4jQ.jpg" description="",Mulher-Gato: A Caçada
+http://lismeo.com/movie/tambosi/zSv4UR/391396.mp4
+#EXTINF:-1 type="video" tvg-id="Mulher-Maravilha 1984" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AweDlIiohqw4sjC7gCsPVd1zo77.jpg" description="",Mulher-Maravilha 1984
+http://lismeo.com/movie/tambosi/zSv4UR/391397.mp4
+#EXTINF:-1 type="video" tvg-id="Mulher Maravilha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUhVYGSEWyb9xOl9kWspxLTpAxQ.jpg" description="",Mulher Maravilha
+http://lismeo.com/movie/tambosi/zSv4UR/391403.mp4
+#EXTINF:-1 type="video" tvg-id="Mortal Kombat Legends: Cegueira Glacial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJvZHaduX9GeASdZ16hc8O9JCWz.jpg" description="",Mortal Kombat Legends: Cegueira Glacial
+http://lismeo.com/movie/tambosi/zSv4UR/391406.mp4
+#EXTINF:-1 type="video" tvg-id="Mulan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nq4taYpb2PjN1Cwni23GOZJbOaR.jpg" description="",Mulan
+http://lismeo.com/movie/tambosi/zSv4UR/391408.mp4
+#EXTINF:-1 type="video" tvg-id="Mortal Kombat Legends: Batalha dos Reinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nILcbiddghZiSvNL6KWttqS7DzW.jpg" description="",Mortal Kombat Legends: Batalha dos Reinos
+http://lismeo.com/movie/tambosi/zSv4UR/391409.mp4
+#EXTINF:-1 type="video" tvg-id="Mortal Kombat" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVotlc03uy62YJUFGxlQUF7FZXV.jpg" description="",Mortal Kombat
+http://lismeo.com/movie/tambosi/zSv4UR/391411.mp4
+#EXTINF:-1 type="video" tvg-id="Morbius" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg" description="",Morbius
+http://lismeo.com/movie/tambosi/zSv4UR/391414.mp4
+#EXTINF:-1 type="video" tvg-id="Monstros do Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uoYHGazS5wLQFJe7tqZ39M8dA7Q.jpg" description="",Monstros do Homem
+http://lismeo.com/movie/tambosi/zSv4UR/391424.mp4
+#EXTINF:-1 type="video" tvg-id="Monster Hunter" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QhhILPAv7MKFd1q57ssQeEV2su.jpg" description="",Monster Hunter
+http://lismeo.com/movie/tambosi/zSv4UR/391425.mp4
+#EXTINF:-1 type="video" tvg-id="Modo Avião" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDZBhyl83F07syVhQ0q21NBZSCC.jpg" description="",Modo Avião
+http://lismeo.com/movie/tambosi/zSv4UR/391426.mp4
+#EXTINF:-1 type="video" tvg-id="Mistério no Mediterrâneo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etbe0OUfPmW1eXDB5rPXrOsKQ4S.jpg" description="",Mistério no Mediterrâneo
+http://lismeo.com/movie/tambosi/zSv4UR/391431.mp4
+#EXTINF:-1 type="video" tvg-id="Mistério em Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pf1dQDb55mJ13KQMEYa4O0fni64.jpg" description="",Mistério em Paris
+http://lismeo.com/movie/tambosi/zSv4UR/391434.mp4
+#EXTINF:-1 type="video" tvg-id="Missão Presente de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cgwD1GYGoNsWNRqVgAOMrUcciC4.jpg" description="",Missão Presente de Natal
+http://lismeo.com/movie/tambosi/zSv4UR/391438.mp4
+#EXTINF:-1 type="video" tvg-id="Missão: Impossível - Efeito Fallout" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dheywKL0VNkd0kmRvUlTxVaHul1.jpg" description="",Missão: Impossível - Efeito Fallout
+http://lismeo.com/movie/tambosi/zSv4UR/391439.mp4
+#EXTINF:-1 type="video" tvg-id="Missão de Sobrevivência" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg" description="",Missão de Sobrevivência
+http://lismeo.com/movie/tambosi/zSv4UR/391442.mp4
+#EXTINF:-1 type="video" tvg-id="Minions A Origem de Gru" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTP3mMw0AoqmScYzDoMmYeKxYe.jpg" description="",Minions A Origem de Gru
+http://lismeo.com/movie/tambosi/zSv4UR/391445.mp4
+#EXTINF:-1 type="video" tvg-id="Minha Culpa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a59iGvF609yAZ5tfZUoQ3XipeQH.jpg" description="",Minha Culpa
+http://lismeo.com/movie/tambosi/zSv4UR/391448.mp4
+#EXTINF:-1 type="video" tvg-id="Gaiola Mental" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPYts32AbIpSnjWPxrKLTSzkIM9.jpg" description="",Gaiola Mental
+http://lismeo.com/movie/tambosi/zSv4UR/391449.mp4
+#EXTINF:-1 type="video" tvg-id="Millennium: A Garota na Teia de Aranha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg" description="",Millennium: A Garota na Teia de Aranha
+http://lismeo.com/movie/tambosi/zSv4UR/391450.mp4
+#EXTINF:-1 type="video" tvg-id="Mil e Um" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zshgJxnUp409zZ9ULRKsLuLVWf.jpg" description="",Mil e Um
+http://lismeo.com/movie/tambosi/zSv4UR/391457.mp4
+#EXTINF:-1 type="video" tvg-id="Midway: Batalha em Alto Mar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg" description="",Midway: Batalha em Alto Mar
+http://lismeo.com/movie/tambosi/zSv4UR/391458.mp4
+#EXTINF:-1 type="video" tvg-id="MIB Homens de Preto: Internacional" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg" description="",MIB Homens de Preto: Internacional
+http://lismeo.com/movie/tambosi/zSv4UR/391459.mp4
+#EXTINF:-1 type="video" tvg-id="Meus Sogros Tão pro Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49nATL5ugRRdz5dQdWuPuTzB8BE.jpg" description="",Meus Sogros Tão pro Crime
+http://lismeo.com/movie/tambosi/zSv4UR/391466.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Policial" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8yg0Lk8JuaoXoOgY6Dndeger3C6.jpg" description="",Meu Policial
+http://lismeo.com/movie/tambosi/zSv4UR/391467.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Pai" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85d7NFk3BnoaJr1NnH3gLl2lRCU.jpg" description="",Meu Pai
+http://lismeo.com/movie/tambosi/zSv4UR/391468.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Eterno Talvez" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/borvKS97pqj3jnkumWHpKmnoAIZ.jpg" description="",Meu Eterno Talvez
+http://lismeo.com/movie/tambosi/zSv4UR/391476.mp4
+#EXTINF:-1 type="video" tvg-id="Meu Amigo Enzo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/26lLdJ8IG5EfzJwusx2DpfsuwLf.jpg" description="",Meu Amigo Enzo
+http://lismeo.com/movie/tambosi/zSv4UR/391481.mp4
+#EXTINF:-1 type="video" tvg-id="Mentiras Perigosas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg" description="",Mentiras Perigosas
+http://lismeo.com/movie/tambosi/zSv4UR/391482.mp4
+#EXTINF:-1 type="video" tvg-id="Men: Faces do Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg" description="",Men: Faces do Medo
+http://lismeo.com/movie/tambosi/zSv4UR/391484.mp4
+#EXTINF:-1 type="video" tvg-id="Megatubarão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wrJkShDPK4TcV0nHix3HASEmkul.jpg" description="",Megatubarão
+http://lismeo.com/movie/tambosi/zSv4UR/391487.mp4
+#EXTINF:-1 type="video" tvg-id="Megatubarão 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg" description="",Megatubarão 2
+http://lismeo.com/movie/tambosi/zSv4UR/391490.mp4
+#EXTINF:-1 type="video" tvg-id="Medieval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg" description="",Medieval
+http://lismeo.com/movie/tambosi/zSv4UR/391492.mp4
+#EXTINF:-1 type="video" tvg-id="Matrix Resurrections" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DT4WVqZqBEI9Kub18gZ3m1D89m.jpg" description="",Matrix Resurrections
+http://lismeo.com/movie/tambosi/zSv4UR/391495.mp4
+#EXTINF:-1 type="video" tvg-id="Matilda: O Musical" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg" description="",Matilda: O Musical
+http://lismeo.com/movie/tambosi/zSv4UR/391499.mp4
+#EXTINF:-1 type="video" tvg-id="Margaux: A Inteligência Mortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUqJ8l6l3nAePq2TPGX4eVnkDqx.jpg" description="",Margaux: A Inteligência Mortal
+http://lismeo.com/movie/tambosi/zSv4UR/391500.mp4
+#EXTINF:-1 type="video" tvg-id="Marcel, a Concha de Sapatos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hIj0OJI6NDMqOQTt9miZlAVIQP.jpg" description="",Marcel, a Concha de Sapatos
+http://lismeo.com/movie/tambosi/zSv4UR/391503.mp4
+#EXTINF:-1 type="video" tvg-id="Máquinas Mortais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg" description="",Máquinas Mortais
+http://lismeo.com/movie/tambosi/zSv4UR/391512.mp4
+#EXTINF:-1 type="video" tvg-id="Malévola: Dona do Mal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llHTFUeUCWmkW5fR4J9kpa6Asep.jpg" description="",Malévola: Dona do Mal
+http://lismeo.com/movie/tambosi/zSv4UR/391513.mp4
+#EXTINF:-1 type="video" tvg-id="Malcolm e Marie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZDAW4nmlC2cT9vM4fRxTQWHddE.jpg" description="",Malcolm e Marie
+http://lismeo.com/movie/tambosi/zSv4UR/391514.mp4
+#EXTINF:-1 type="video" tvg-id="Mãe e Muito Mais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmxpmxuxHCPAKo3anxdFuyu294I.jpg" description="",Mãe e Muito Mais
+http://lismeo.com/movie/tambosi/zSv4UR/391518.mp4
+#EXTINF:-1 type="video" tvg-id="Má Educação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ya3jcEyU5hg61iuYGe1kLnLjRZz.jpg" description="",Má Educação
+http://lismeo.com/movie/tambosi/zSv4UR/391521.mp4
+#EXTINF:-1 type="video" tvg-id="Luther: O Cair da Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX7vIS0HfCIJ4l1VEBoSLs9DnLe.jpg" description="",Luther: O Cair da Noite
+http://lismeo.com/movie/tambosi/zSv4UR/391524.mp4
+#EXTINF:-1 type="video" tvg-id="Luta Pela Fé: A História do Padre Stu" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwcoMHlrOrmfwsEKhnAuCw6NL6G.jpg" description="",Luta Pela Fé: A História do Padre Stu
+http://lismeo.com/movie/tambosi/zSv4UR/391528.mp4
+#EXTINF:-1 type="video" tvg-id="Lucy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg" description="",Lucy
+http://lismeo.com/movie/tambosi/zSv4UR/391530.mp4
+#EXTINF:-1 type="video" tvg-id="Luca" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6Ockf2oYhxXoBIBaRLDwCOE410.jpg" description="",Luca
+http://lismeo.com/movie/tambosi/zSv4UR/391533.mp4
+#EXTINF:-1 type="video" tvg-id="Lost Girls: Os Crimes de Long Island" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg" description="",Lost Girls: Os Crimes de Long Island
+http://lismeo.com/movie/tambosi/zSv4UR/391539.mp4
+#EXTINF:-1 type="video" tvg-id="Logan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg" description="",Logan
+http://lismeo.com/movie/tambosi/zSv4UR/391540.mp4
+#EXTINF:-1 type="video" tvg-id="Lobisomem na Noite" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg" description="",Lobisomem na Noite
+http://lismeo.com/movie/tambosi/zSv4UR/391541.mp4
+#EXTINF:-1 type="video" tvg-id="Lightyear" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egrrHqIIWRTDK0rwqU4AO0OT9i4.jpg" description="",Lightyear
+http://lismeo.com/movie/tambosi/zSv4UR/391551.mp4
+#EXTINF:-1 type="video" tvg-id="Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs9thnvpkf6HCx2lJZlY5YaLQ7s.jpg" description="",Liga da Justiça x RWBY: Super-Heróis e Caçadores - Parte 1
+http://lismeo.com/movie/tambosi/zSv4UR/391553.mp4
+#EXTINF:-1 type="video" tvg-id="Liga da Justiça de Zack Snyder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ArWn6gCi61b3b3hclD2L0LOk66k.jpg" description="",Liga da Justiça de Zack Snyder
+http://lismeo.com/movie/tambosi/zSv4UR/391554.mp4
+#EXTINF:-1 type="video" tvg-id="Liga da Justiça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geyu6rplpbp7OUeOfB2uRVf1LpG.jpg" description="",Liga da Justiça
+http://lismeo.com/movie/tambosi/zSv4UR/391555.mp4
+#EXTINF:-1 type="video" tvg-id="LEGO Disney Princesa: Aventura no Castelo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbPkvDVY06gdQlxgowQebOHQGGK.jpg" description="",LEGO Disney Princesa: Aventura no Castelo
+http://lismeo.com/movie/tambosi/zSv4UR/391561.mp4
+#EXTINF:-1 type="video" tvg-id="Legítimo Rei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6LvYgoxdh3coBd69CxKJaoju9lv.jpg" description="",Legítimo Rei
+http://lismeo.com/movie/tambosi/zSv4UR/391566.mp4
+#EXTINF:-1 type="video" tvg-id="Lanterna Verde: Cuidado Com Meu Poder" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jKuuMoCuAlu0NHvPSHzabkmXtz.jpg" description="",Lanterna Verde: Cuidado Com Meu Poder
+http://lismeo.com/movie/tambosi/zSv4UR/391567.mp4
+#EXTINF:-1 type="video" tvg-id="King's Man: A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVL9AyKKLfUwrYD6jhdsI15gBQ7.jpg" description="",King's Man: A Origem
+http://lismeo.com/movie/tambosi/zSv4UR/391569.mp4
+#EXTINF:-1 type="video" tvg-id="Kate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJgdT1boTSP0dDIjdTgGleg71l4.jpg" description="",Kate
+http://lismeo.com/movie/tambosi/zSv4UR/391578.mp4
+#EXTINF:-1 type="video" tvg-id="Justiça em Família" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg" description="",Justiça em Família
+http://lismeo.com/movie/tambosi/zSv4UR/391582.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Reino Ameaçado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b3CuByY3v7qz9aq4rayIMeAMemy.jpg" description="",Jurassic World: Reino Ameaçado
+http://lismeo.com/movie/tambosi/zSv4UR/391585.mp4
+#EXTINF:-1 type="video" tvg-id="Jurassic World: Domínio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w6Jz1AgjscqBuS8qXBd0wUHz5zC.jpg" description="",Jurassic World: Domínio
+http://lismeo.com/movie/tambosi/zSv4UR/391596.mp4
+#EXTINF:-1 type="video" tvg-id="Jungle Cruise" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E76j2DcQv8LdbX1Wa9jpbDBfw1.jpg" description="",Jungle Cruise
+http://lismeo.com/movie/tambosi/zSv4UR/391599.mp4
+#EXTINF:-1 type="video" tvg-id="Jumanji: Próxima Fase" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg" description="",Jumanji: Próxima Fase
+http://lismeo.com/movie/tambosi/zSv4UR/391602.mp4
+#EXTINF:-1 type="video" tvg-id="Judas e o Messias Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oA4Hsn1G0sBI8U61BpX05GsrrfF.jpg" description="",Judas e o Messias Negro
+http://lismeo.com/movie/tambosi/zSv4UR/391612.mp4
+#EXTINF:-1 type="video" tvg-id="Jojo Rabbit" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zFJZKMcjBaVLNPZJQUAFNoTL48d.jpg" description="",Jojo Rabbit
+http://lismeo.com/movie/tambosi/zSv4UR/391615.mp4
+#EXTINF:-1 type="video" tvg-id="John Wick 4: Baba Yaga" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" description="",John Wick 4: Baba Yaga
+http://lismeo.com/movie/tambosi/zSv4UR/391618.mp4
+#EXTINF:-1 type="video" tvg-id="John Wick 3: Parabellum" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg" description="",John Wick 3: Parabellum
+http://lismeo.com/movie/tambosi/zSv4UR/391628.mp4
+#EXTINF:-1 type="video" tvg-id="Jerry & Marge Tiram a Sorte Grande" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg" description="",Jerry & Marge Tiram a Sorte Grande
+http://lismeo.com/movie/tambosi/zSv4UR/391629.mp4
+#EXTINF:-1 type="video" tvg-id="Jaguaretê-Avá: Pantanal em Chamas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6aYl2b29GSMuamSjinTRNd8gP3.jpg" description="",Jaguaretê-Avá: Pantanal em Chamas
+http://lismeo.com/movie/tambosi/zSv4UR/391630.mp4
+#EXTINF:-1 type="video" tvg-id="IT: Capítulo Dois" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yVksBmUf2uwEruDttP3XtHamS8q.jpg" description="",IT: Capítulo Dois
+http://lismeo.com/movie/tambosi/zSv4UR/391636.mp4
+#EXTINF:-1 type="video" tvg-id="Isi & Ossi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7siFsEYnwCQfAezhupnjogPMoM.jpg" description="",Isi & Ossi
+http://lismeo.com/movie/tambosi/zSv4UR/391639.mp4
+#EXTINF:-1 type="video" tvg-id="Irmãos de Honra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvCvlxAxnlTV13yNIf4j7h7FqvQ.jpg" description="",Irmãos de Honra
+http://lismeo.com/movie/tambosi/zSv4UR/391641.mp4
+#EXTINF:-1 type="video" tvg-id="Invocação do Mal 3: A Ordem do Demônio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLmaOXT9rMb17ISQDURKQIu3Okk.jpg" description="",Invocação do Mal 3: A Ordem do Demônio
+http://lismeo.com/movie/tambosi/zSv4UR/391643.mp4
+#EXTINF:-1 type="video" tvg-id="Invasão ao Serviço Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qinFqfMF2HrjplEK5uQliLyryAk.jpg" description="",Invasão ao Serviço Secreto
+http://lismeo.com/movie/tambosi/zSv4UR/391646.mp4
+#EXTINF:-1 type="video" tvg-id="Abutres Humanos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p46uII7te9cwU5KSrgfz0s5SEbq.jpg" description="",Abutres Humanos
+http://lismeo.com/movie/tambosi/zSv4UR/392097.mp4
+#EXTINF:-1 type="video" tvg-id="Velozes & Furiosos 9" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7rWlqhy76Az3L0C016cLZRSVqcZ.jpg" description="",Velozes & Furiosos 9
+http://lismeo.com/movie/tambosi/zSv4UR/392124.mp4
+#EXTINF:-1 type="video" tvg-id="Velozes & Furiosos 10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg" description="",Velozes & Furiosos 10
+http://lismeo.com/movie/tambosi/zSv4UR/392127.mp4
+#EXTINF:-1 type="video" tvg-id="Venom" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg" description="",Venom
+http://lismeo.com/movie/tambosi/zSv4UR/392130.mp4
+#EXTINF:-1 type="video" tvg-id="Venom: Tempo de Carnificina" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5UzYZquMwO9FVn15R2eK2itmHu.jpg" description="",Venom: Tempo de Carnificina
+http://lismeo.com/movie/tambosi/zSv4UR/392132.mp4
+#EXTINF:-1 type="video" tvg-id="Velozes & Furiosos: Hobbs & Shaw" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg" description="",Velozes & Furiosos: Hobbs & Shaw
+http://lismeo.com/movie/tambosi/zSv4UR/392135.mp4
+#EXTINF:-1 type="video" tvg-id="Veja Como Eles Correm" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHjMrsrhgLcwKLIfReRxt9rFBFk.jpg" description="",Veja Como Eles Correm
+http://lismeo.com/movie/tambosi/zSv4UR/392138.mp4
+#EXTINF:-1 type="video" tvg-id="Valerian e a Cidade dos Mil Planetas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ar9Npj8l5SnxpwAGNkdmObv0VBd.jpg" description="",Valerian e a Cidade dos Mil Planetas
+http://lismeo.com/movie/tambosi/zSv4UR/392143.mp4
+#EXTINF:-1 type="video" tvg-id="Untold: Pacto com o Diabo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjjM0z1tRY5S4KjxXVNp7BRTOxG.jpg" description="",Untold: Pacto com o Diabo
+http://lismeo.com/movie/tambosi/zSv4UR/392144.mp4
+#EXTINF:-1 type="video" tvg-id="Untold: Crime e Infrações" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg" description="",Untold: Crime e Infrações
+http://lismeo.com/movie/tambosi/zSv4UR/392146.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Obsessão Desconhecida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLFnV0w9aQ4c507owJwMSWStsMD.jpg" description="",Uma Obsessão Desconhecida
+http://lismeo.com/movie/tambosi/zSv4UR/392149.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Invenção de Natal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg" description="",Uma Invenção de Natal
+http://lismeo.com/movie/tambosi/zSv4UR/392150.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Gota de Esperança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg" description="",Uma Gota de Esperança
+http://lismeo.com/movie/tambosi/zSv4UR/392151.mp4
+#EXTINF:-1 type="video" tvg-id="Uma Festa de Arromba" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJJuiyH3ibOA3VdUjrXA88HRxfS.jpg" description="",Uma Festa de Arromba
+http://lismeo.com/movie/tambosi/zSv4UR/392154.mp4
+#EXTINF:-1 type="video" tvg-id="Um Príncipe em Nova York 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mpXRG5zPUT18IeYvCoC4zOscked.jpg" description="",Um Príncipe em Nova York 2
+http://lismeo.com/movie/tambosi/zSv4UR/392155.mp4
+#EXTINF:-1 type="video" tvg-id="Um Pacto de Amizade" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f1NEx4lohw47WSuNqQife0GxWLv.jpg" description="",Um Pacto de Amizade
+http://lismeo.com/movie/tambosi/zSv4UR/392158.mp4
+#EXTINF:-1 type="video" tvg-id="Um Natal Cheio de Graça" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TDwAtynfhER7CXb7J61l4SyTCV.jpg" description="",Um Natal Cheio de Graça
+http://lismeo.com/movie/tambosi/zSv4UR/392161.mp4
+#EXTINF:-1 type="video" tvg-id="Um Motivo para Lutar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5320Te725bESCpbHPX0li0VZBw.jpg" description="",Um Motivo para Lutar
+http://lismeo.com/movie/tambosi/zSv4UR/392163.mp4
+#EXTINF:-1 type="video" tvg-id="Um Match Surpresa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VoTb0s7nbCeotnDU27hBk9Olt9.jpg" description="",Um Match Surpresa
+http://lismeo.com/movie/tambosi/zSv4UR/392166.mp4
+#EXTINF:-1 type="video" tvg-id="Um Lugar Silencioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNgg9wuyeYpCpuzkyLbvaupnmvq.jpg" description="",Um Lugar Silencioso
+http://lismeo.com/movie/tambosi/zSv4UR/392176.mp4
+#EXTINF:-1 type="video" tvg-id="Trolls 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4aOyZTiybSidipdjtv7xpeO4TZp.jpg" description="",Trolls 2
+http://lismeo.com/movie/tambosi/zSv4UR/392177.mp4
+#EXTINF:-1 type="video" tvg-id="Troco em Dobro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9kUoCeyFAfYZKrGI27gSsnnsHN0.jpg" description="",Troco em Dobro
+http://lismeo.com/movie/tambosi/zSv4UR/392178.mp4
+#EXTINF:-1 type="video" tvg-id="Triângulo da Tristeza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/scfQwUUe0MQb0T5khF1x5e4HSoR.jpg" description="",Triângulo da Tristeza
+http://lismeo.com/movie/tambosi/zSv4UR/392183.mp4
+#EXTINF:-1 type="video" tvg-id="Trem-Bala" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg" description="",Trem-Bala
+http://lismeo.com/movie/tambosi/zSv4UR/392186.mp4
+#EXTINF:-1 type="video" tvg-id="Transformers: O Último Cavaleiro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iQ3Ko9GuKmGUHe5gFVSoR5NyOPT.jpg" description="",Transformers: O Último Cavaleiro
+http://lismeo.com/movie/tambosi/zSv4UR/392190.mp4
+#EXTINF:-1 type="video" tvg-id="Transformers: O Despertar das Feras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg" description="",Transformers: O Despertar das Feras
+http://lismeo.com/movie/tambosi/zSv4UR/392193.mp4
+#EXTINF:-1 type="video" tvg-id="Toy Story 4" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csiyO6q8rR74pfgJDjwINzhoick.jpg" description="",Toy Story 4
+http://lismeo.com/movie/tambosi/zSv4UR/392196.mp4
+#EXTINF:-1 type="video" tvg-id="Top Gun: Maverick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e9ZrMPiJqYg2qEnWS7n1U7W0GHL.jpg" description="",Top Gun: Maverick
+http://lismeo.com/movie/tambosi/zSv4UR/392198.mp4
+#EXTINF:-1 type="video" tvg-id="Tomb Raider: A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wa0GU7H38ZBXHnzpInqkEHpJm84.jpg" description="",Tomb Raider: A Origem
+http://lismeo.com/movie/tambosi/zSv4UR/392201.mp4
+#EXTINF:-1 type="video" tvg-id="Tom & Jerry: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NvYyM8H6d5KAVGqpyFV9YPO5cU.jpg" description="",Tom & Jerry: O Filme
+http://lismeo.com/movie/tambosi/zSv4UR/392204.mp4
+#EXTINF:-1 type="video" tvg-id="Togo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tCCgIgIqNHZCxKgZKTqv1LzxuwI.jpg" description="",Togo
+http://lismeo.com/movie/tambosi/zSv4UR/392213.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e o Prisioneiro de Azkaban" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg" description="",Harry Potter e o Prisioneiro de Azkaban
+http://lismeo.com/movie/tambosi/zSv4UR/392214.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e o Enigma do Príncipe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSKNXome5vmnBVQCmpWN8do7Bpa.jpg" description="",Harry Potter e o Enigma do Príncipe
+http://lismeo.com/movie/tambosi/zSv4UR/392215.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e o Cálice de Fogo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg" description="",Harry Potter e o Cálice de Fogo
+http://lismeo.com/movie/tambosi/zSv4UR/392220.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e as Relíquias da Morte - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg" description="",Harry Potter e as Relíquias da Morte - Parte 2
+http://lismeo.com/movie/tambosi/zSv4UR/392223.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e as Relíquias da Morte - Parte 1" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg" description="",Harry Potter e as Relíquias da Morte - Parte 1
+http://lismeo.com/movie/tambosi/zSv4UR/392226.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e a Pedra Filosofal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg" description="",Harry Potter e a Pedra Filosofal
+http://lismeo.com/movie/tambosi/zSv4UR/392228.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e a Ordem da Fênix" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg" description="",Harry Potter e a Ordem da Fênix
+http://lismeo.com/movie/tambosi/zSv4UR/392231.mp4
+#EXTINF:-1 type="video" tvg-id="Harry Potter e a Câmara Secreta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rmsP4F5tjuOpnHsQAPba6YjHDFq.jpg" description="",Harry Potter e a Câmara Secreta
+http://lismeo.com/movie/tambosi/zSv4UR/392232.mp4
+#EXTINF:-1 type="video" tvg-id="Elvis" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg" description="",Elvis
+http://lismeo.com/movie/tambosi/zSv4UR/392235.mp4
+#EXTINF:-1 type="video" tvg-id="Ele é Demais" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dR5s6KTvHFBzVMiSiFFHkOhEbbJ.jpg" description="",Ele é Demais
+http://lismeo.com/movie/tambosi/zSv4UR/392240.mp4
+#EXTINF:-1 type="video" tvg-id="Dungeons & Dragons: Honra Entre Rebeldes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUFRyAMZNqSKL5zsPPVLdggGek.jpg" description="",Dungeons & Dragons: Honra Entre Rebeldes
+http://lismeo.com/movie/tambosi/zSv4UR/392242.mp4
+#EXTINF:-1 type="video" tvg-id="Duna" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PQdUB1KDxMxdw7KBdFFgI9kJPv.jpg" description="",Duna
+http://lismeo.com/movie/tambosi/zSv4UR/392245.mp4
+#EXTINF:-1 type="video" tvg-id="Duas Pecadoras e Uma Mula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg" description="",Duas Pecadoras e Uma Mula
+http://lismeo.com/movie/tambosi/zSv4UR/392251.mp4
+#EXTINF:-1 type="video" tvg-id="Doutor Sono" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huDLFxqWZkIdlaiRpkEA3YifV64.jpg" description="",Doutor Sono
+http://lismeo.com/movie/tambosi/zSv4UR/392252.mp4
+#EXTINF:-1 type="video" tvg-id="Doutor Estranho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iM1hlVGZ5Qwn3gO6ewTszY7OrLY.jpg" description="",Doutor Estranho
+http://lismeo.com/movie/tambosi/zSv4UR/392253.mp4
+#EXTINF:-1 type="video" tvg-id="Doutor Estranho no Multiverso da Loucura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/boIgXXUhw5O3oVkhXsE6SJZkmYo.jpg" description="",Doutor Estranho no Multiverso da Loucura
+http://lismeo.com/movie/tambosi/zSv4UR/392257.mp4
+#EXTINF:-1 type="video" tvg-id="As Aventuras do Dr. Dolittle" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg" description="",As Aventuras do Dr. Dolittle
+http://lismeo.com/movie/tambosi/zSv4UR/392258.mp4
+#EXTINF:-1 type="video" tvg-id="Dois Irmãos: Uma Jornada Fantástica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" description="",Dois Irmãos: Uma Jornada Fantástica
+http://lismeo.com/movie/tambosi/zSv4UR/392261.mp4
+#EXTINF:-1 type="video" tvg-id="Detetive Knight: Vilão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/deuqT4q8GS0hXvaSqi97tq3VvTc.jpg" description="",Detetive Knight: Vilão
+http://lismeo.com/movie/tambosi/zSv4UR/392266.mp4
+#EXTINF:-1 type="video" tvg-id="Destruição Final: O Último Refúgio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hAUUVBGprFQXaHuhOFDMKELkH4W.jpg" description="",Destruição Final: O Último Refúgio
+http://lismeo.com/movie/tambosi/zSv4UR/392267.mp4
+#EXTINF:-1 type="video" tvg-id="Destemida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg" description="",Destemida
+http://lismeo.com/movie/tambosi/zSv4UR/392268.mp4
+#EXTINF:-1 type="video" tvg-id="Desejo de Matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yo2FRPhsifn044quPVyMtYlnoyZ.jpg" description="",Desejo de Matar
+http://lismeo.com/movie/tambosi/zSv4UR/392274.mp4
+#EXTINF:-1 type="video" tvg-id="Deixe-o Partir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fDVKqWgljauo1Frc1CbdeKr2G8O.jpg" description="",Deixe-o Partir
+http://lismeo.com/movie/tambosi/zSv4UR/392275.mp4
+#EXTINF:-1 type="video" tvg-id="Deixe a Neve Cair" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cK25zywRZwSxCSzGZaPTJ7ZhC1m.jpg" description="",Deixe a Neve Cair
+http://lismeo.com/movie/tambosi/zSv4UR/392284.mp4
+#EXTINF:-1 type="video" tvg-id="Decisão de Partir" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dA7KWckx8LbUrj4GlTZgngeJ4S.jpg" description="",Decisão de Partir
+http://lismeo.com/movie/tambosi/zSv4UR/392285.mp4
+#EXTINF:-1 type="video" tvg-id="Deadpool 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg" description="",Deadpool 2
+http://lismeo.com/movie/tambosi/zSv4UR/392286.mp4
+#EXTINF:-1 type="video" tvg-id="De Repente 70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg" description="",De Repente 70
+http://lismeo.com/movie/tambosi/zSv4UR/392291.mp4
+#EXTINF:-1 type="video" tvg-id="DC Liga dos Superpets" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQN9v8dIkEYtrGhLULweNNKONHg.jpg" description="",DC Liga dos Superpets
+http://lismeo.com/movie/tambosi/zSv4UR/392292.mp4
+#EXTINF:-1 type="video" tvg-id="Darby: A Jovem Sensitiva" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg" description="",Darby: A Jovem Sensitiva
+http://lismeo.com/movie/tambosi/zSv4UR/392293.mp4
+#EXTINF:-1 type="video" tvg-id="Cruella" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg" description="",Cruella
+http://lismeo.com/movie/tambosi/zSv4UR/392299.mp4
+#EXTINF:-1 type="video" tvg-id="Creed III" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDugyjvDQsuwm9j9hkmK4whCOti.jpg" description="",Creed III
+http://lismeo.com/movie/tambosi/zSv4UR/392302.mp4
+#EXTINF:-1 type="video" tvg-id="Creed II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg" description="",Creed II
+http://lismeo.com/movie/tambosi/zSv4UR/392305.mp4
+#EXTINF:-1 type="video" tvg-id="Corra, Querida, Corra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9xf3aiAxjx2H34EwwVFFlOrr0nt.jpg" description="",Corra, Querida, Corra
+http://lismeo.com/movie/tambosi/zSv4UR/392315.mp4
+#EXTINF:-1 type="video" tvg-id="Coringa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xLxgVxFWvb9hhUyCDDXxRPPnFck.jpg" description="",Coringa
+http://lismeo.com/movie/tambosi/zSv4UR/392318.mp4
+#EXTINF:-1 type="video" tvg-id="Consequências" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idBM5zHPOVlFBlowNU45qJaQj7E.jpg" description="",Consequências
+http://lismeo.com/movie/tambosi/zSv4UR/392321.mp4
+#EXTINF:-1 type="video" tvg-id="Conselheira do Amor" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/530T0cQHqqBHL2Tp9gOrlJ8wmJo.jpg" description="",Conselheira do Amor
+http://lismeo.com/movie/tambosi/zSv4UR/392331.mp4
+#EXTINF:-1 type="video" tvg-id="Como Treinar o Seu Dragão 3: O Mundo Escondido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uqxMHM7YLKk6yni4bOE0D6DVz8.jpg" description="",Como Treinar o Seu Dragão 3: O Mundo Escondido
+http://lismeo.com/movie/tambosi/zSv4UR/392334.mp4
+#EXTINF:-1 type="video" tvg-id="Combinação Perfeita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg" description="",Combinação Perfeita
+http://lismeo.com/movie/tambosi/zSv4UR/392337.mp4
+#EXTINF:-1 type="video" tvg-id="Com Amor, Anônima" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhFS8NlOe7yQ3sxFVEHKftCUHSq.jpg" description="",Com Amor, Anônima
+http://lismeo.com/movie/tambosi/zSv4UR/392347.mp4
+#EXTINF:-1 type="video" tvg-id="Com Amor, Simon" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwGowTpFQTgCcByfoP2xzXVReGl.jpg" description="",Com Amor, Simon
+http://lismeo.com/movie/tambosi/zSv4UR/392350.mp4
+#EXTINF:-1 type="video" tvg-id="Coffee & Kareem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg" description="",Coffee & Kareem
+http://lismeo.com/movie/tambosi/zSv4UR/392353.mp4
+#EXTINF:-1 type="video" tvg-id="Código: Imperador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74HVV4JR2rT01S9NDZie4YWBLUD.jpg" description="",Código: Imperador
+http://lismeo.com/movie/tambosi/zSv4UR/392363.mp4
+#EXTINF:-1 type="video" tvg-id="Clouds" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euWiWsHhPeSGFsIO5ArzCkGeskG.jpg" description="",Clouds
+http://lismeo.com/movie/tambosi/zSv4UR/392366.mp4
+#EXTINF:-1 type="video" tvg-id="Clonaram Tyrone!" tvg-logo="http://109.236.81.144:80/images/XP8ozGU9HrMvJaYvAm_D5O14ND6VTiOliQnp_RI_9WFxG3skG2C-HPpH3d7mEIvkm4NRKdm_UR2g05ky8SMVX3FOY1nvFvuA_CymL4_dRos.jpg" description="",Clonaram Tyrone!
+http://lismeo.com/movie/tambosi/zSv4UR/392369.mp4
+#EXTINF:-1 type="video" tvg-id="Cinderela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97uGphrufb7Yr2sP6EmHqPrE3Vc.jpg" description="",Cinderela
+http://lismeo.com/movie/tambosi/zSv4UR/392379.mp4
+#EXTINF:-1 type="video" tvg-id="Cidade Perdida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsX9gj7t56ZlMYKNYccskeW5adT.jpg" description="",Cidade Perdida
+http://lismeo.com/movie/tambosi/zSv4UR/392382.mp4
+#EXTINF:-1 type="video" tvg-id="Chevalier" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg" description="",Chevalier
+http://lismeo.com/movie/tambosi/zSv4UR/392385.mp4
+#EXTINF:-1 type="video" tvg-id="Cha Cha Real Smooth - O Próximo Passo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8Y1NZFK5kFo064CoOXRGwR5fmo.jpg" description="",Cha Cha Real Smooth - O Próximo Passo
+http://lismeo.com/movie/tambosi/zSv4UR/392395.mp4
+#EXTINF:-1 type="video" tvg-id="Céu Vermelho-Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg" description="",Céu Vermelho-Sangue
+http://lismeo.com/movie/tambosi/zSv4UR/392398.mp4
+#EXTINF:-1 type="video" tvg-id="Certas Pessoas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/49Km62y53mW1eOWSVzmPnWN01vY.jpg" description="",Certas Pessoas
+http://lismeo.com/movie/tambosi/zSv4UR/392401.mp4
+#EXTINF:-1 type="video" tvg-id="Catarina, a Menina Chamada Passarinha" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMRLFYzhdWIOguLaPTwm2afiPMj.jpg" description="",Catarina, a Menina Chamada Passarinha
+http://lismeo.com/movie/tambosi/zSv4UR/392411.mp4
+#EXTINF:-1 type="video" tvg-id="Casamento Armado" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3OgPuen3vi7UkAQCMZou2NkPUm.jpg" description="",Casamento Armado
+http://lismeo.com/movie/tambosi/zSv4UR/392414.mp4
+#EXTINF:-1 type="video" tvg-id="Casa Gucci" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAPdK3L2STpHo4DFKwtL2gdo89L.jpg" description="",Casa Gucci
+http://lismeo.com/movie/tambosi/zSv4UR/392417.mp4
+#EXTINF:-1 type="video" tvg-id="Carnaval" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ze1Sdb7WB64TBJhPqg8sJtwQtes.jpg" description="",Carnaval
+http://lismeo.com/movie/tambosi/zSv4UR/392427.mp4
+#EXTINF:-1 type="video" tvg-id="Capitã Marvel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg" description="",Capitã Marvel
+http://lismeo.com/movie/tambosi/zSv4UR/392430.mp4
+#EXTINF:-1 type="video" tvg-id="Campo do Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG0tORn6XqSwjN2tBAZJrFTh7n0.jpg" description="",Campo do Medo
+http://lismeo.com/movie/tambosi/zSv4UR/392433.mp4
+#EXTINF:-1 type="video" tvg-id="Caminhos da Memória" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aef6dMfVJ5eVogGQbvtaKDcB43K.jpg" description="",Caminhos da Memória
+http://lismeo.com/movie/tambosi/zSv4UR/392443.mp4
+#EXTINF:-1 type="video" tvg-id="Caixa de Pássaros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akAO6r0ZuPB98VwQsN0SGIkE4z.jpg" description="",Caixa de Pássaros
+http://lismeo.com/movie/tambosi/zSv4UR/392446.mp4
+#EXTINF:-1 type="video" tvg-id="Caçador de Tormentas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g0UOstAfVWAK5FazCMfdWdkM38i.jpg" description="",Caçador de Tormentas
+http://lismeo.com/movie/tambosi/zSv4UR/392449.mp4
+#EXTINF:-1 type="video" tvg-id="Bumblebee" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg" description="",Bumblebee
+http://lismeo.com/movie/tambosi/zSv4UR/392459.mp4
+#EXTINF:-1 type="video" tvg-id="Brahms: Boneco do Mal II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nIv88OjKOw7tLMTpjAS2HsZZU1X.jpg" description="",Brahms: Boneco do Mal II
+http://lismeo.com/movie/tambosi/zSv4UR/392462.mp4
+#EXTINF:-1 type="video" tvg-id="Bohemian Rhapsody" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxgdqcxI216kEoypGbA9BemB7mW.jpg" description="",Bohemian Rhapsody
+http://lismeo.com/movie/tambosi/zSv4UR/392465.mp4
+#EXTINF:-1 type="video" tvg-id="Bob Esponja: O Incrível Resgate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" description="",Bob Esponja: O Incrível Resgate
+http://lismeo.com/movie/tambosi/zSv4UR/392475.mp4
+#EXTINF:-1 type="video" tvg-id="Boa Viagem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w94FteEPPW5QiaYDMDy74NJ9vz.jpg" description="",Boa Viagem
+http://lismeo.com/movie/tambosi/zSv4UR/392478.mp4
+#EXTINF:-1 type="video" tvg-id="Boa Noite, Mamãe!" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg" description="",Boa Noite, Mamãe!
+http://lismeo.com/movie/tambosi/zSv4UR/392481.mp4
+#EXTINF:-1 type="video" tvg-id="Bloodshot" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Z7AJiQhocA20MkI5JXZ6OjTxEW.jpg" description="",Bloodshot
+http://lismeo.com/movie/tambosi/zSv4UR/392491.mp4
+#EXTINF:-1 type="video" tvg-id="Blade Runner 2049" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWD9E0Wgn8w6nMMutCNFAUiSHrX.jpg" description="",Blade Runner 2049
+http://lismeo.com/movie/tambosi/zSv4UR/392494.mp4
+#EXTINF:-1 type="video" tvg-id="Infiltrado Na Klan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iqP3m9EdoDvSzi6lPMmpjOX6vLY.jpg" description="",Infiltrado Na Klan
+http://lismeo.com/movie/tambosi/zSv4UR/392497.mp4
+#EXTINF:-1 type="video" tvg-id="Bird Box Barcelona" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg" description="",Bird Box Barcelona
+http://lismeo.com/movie/tambosi/zSv4UR/392509.mp4
+#EXTINF:-1 type="video" tvg-id="Benedetta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg" description="",Benedetta
+http://lismeo.com/movie/tambosi/zSv4UR/392512.mp4
+#EXTINF:-1 type="video" tvg-id="Belo Desastre" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNIadSJbxQ0p0DtJLUPfVW6TAEu.jpg" description="",Belo Desastre
+http://lismeo.com/movie/tambosi/zSv4UR/392522.mp4
+#EXTINF:-1 type="video" tvg-id="Bela Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg" description="",Bela Vingança
+http://lismeo.com/movie/tambosi/zSv4UR/392525.mp4
+#EXTINF:-1 type="video" tvg-id="Beau Tem Medo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/le5aApwb7odK20sLDZBoMSR8Xfj.jpg" description="",Beau Tem Medo
+http://lismeo.com/movie/tambosi/zSv4UR/392528.mp4
+#EXTINF:-1 type="video" tvg-id="Batman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" description="",Batman
+http://lismeo.com/movie/tambosi/zSv4UR/392538.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: O Longo Dia das Bruxas - Parte 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aU7b0dBctae0aLRYy6joj467zV.jpg" description="",Batman: O Longo Dia das Bruxas - Parte 2
+http://lismeo.com/movie/tambosi/zSv4UR/392541.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: A Perdição Chegou a Gotham" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQMObXnPjV8Yo90hiC7quSz0U7.jpg" description="",Batman: A Perdição Chegou a Gotham
+http://lismeo.com/movie/tambosi/zSv4UR/392544.mp4
+#EXTINF:-1 type="video" tvg-id="Batman: O Cavaleiro das Trevas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGZX91hIqM9Uu0KGhd4MUaJ0Rtm.jpg" description="",Batman: O Cavaleiro das Trevas
+http://lismeo.com/movie/tambosi/zSv4UR/392555.mp4
+#EXTINF:-1 type="video" tvg-id="Batem à Porta" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/94Gfu9vxUAVeL8EHc9toT9nGLkv.jpg" description="",Batem à Porta
+http://lismeo.com/movie/tambosi/zSv4UR/392558.mp4
+#EXTINF:-1 type="video" tvg-id="Bares, Bolos e Amizades" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98trDKdoX997KOF4i3xJL6vuXKl.jpg" description="",Bares, Bolos e Amizades
+http://lismeo.com/movie/tambosi/zSv4UR/392561.mp4
+#EXTINF:-1 type="video" tvg-id="Barbie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yRRuLt7sMBEQkHsd1S3KaaofZn7.jpg" description="",Barbie
+http://lismeo.com/movie/tambosi/zSv4UR/392571.mp4
+#EXTINF:-1 type="video" tvg-id="Bar Doce Lar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8VAkBqDy0XqSjz8p8biAFmrWa2.jpg" description="",Bar Doce Lar
+http://lismeo.com/movie/tambosi/zSv4UR/392574.mp4
+#EXTINF:-1 type="video" tvg-id="Bandido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea7Eg1oajzqI7KLzVQG8ExZRCkh.jpg" description="",Bandido
+http://lismeo.com/movie/tambosi/zSv4UR/392577.mp4
+#EXTINF:-1 type="video" tvg-id="Bala Perdida 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg" description="",Bala Perdida 2
+http://lismeo.com/movie/tambosi/zSv4UR/392587.mp4
+#EXTINF:-1 type="video" tvg-id="Babilônia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qZUmMxJbGmkIYwnS7qRfSOREmvC.jpg" description="",Babilônia
+http://lismeo.com/movie/tambosi/zSv4UR/392590.mp4
+#EXTINF:-1 type="video" tvg-id="Awake" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZkNbB8isWXHMDNoIbqXvmslBMC.jpg" description="",Awake
+http://lismeo.com/movie/tambosi/zSv4UR/392593.mp4
+#EXTINF:-1 type="video" tvg-id="Aves de Rapina: Arlequina e sua Emancipação Fantabulosa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A50Ngq9lh9aCTGHC6kttrppHNoF.jpg" description="",Aves de Rapina: Arlequina e sua Emancipação Fantabulosa
+http://lismeo.com/movie/tambosi/zSv4UR/392603.mp4
+#EXTINF:-1 type="video" tvg-id="Avatar: O Caminho da Água" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbYQLLluS651W89jO7MOZcLSCUw.jpg" description="",Avatar: O Caminho da Água
+http://lismeo.com/movie/tambosi/zSv4UR/392606.mp4
+#EXTINF:-1 type="video" tvg-id="Através da Minha Janela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQHfOaggM8xjvgGvZHpFPYXduRE.jpg" description="",Através da Minha Janela
+http://lismeo.com/movie/tambosi/zSv4UR/392609.mp4
+#EXTINF:-1 type="video" tvg-id="Até o Último Homem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88sCL8OQMoieKpHClqRCCbcgH6w.jpg" description="",Até o Último Homem
+http://lismeo.com/movie/tambosi/zSv4UR/392619.mp4
+#EXTINF:-1 type="video" tvg-id="Asterix e o Segredo da Poção Mágica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0zfYNjoXQKDoHlYJqIvGx9Hkvx.jpg" description="",Asterix e o Segredo da Poção Mágica
+http://lismeo.com/movie/tambosi/zSv4UR/392622.mp4
+#EXTINF:-1 type="video" tvg-id="Assento Quente" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ggtT84i2E1URJCyAkaoPxl6Ttke.jpg" description="",Assento Quente
+http://lismeo.com/movie/tambosi/zSv4UR/392625.mp4
+#EXTINF:-1 type="video" tvg-id="Assassino Sem Rastro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg" description="",Assassino Sem Rastro
+http://lismeo.com/movie/tambosi/zSv4UR/392636.mp4
+#EXTINF:-1 type="video" tvg-id="Clube de Assassinos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXdBh92gkmihGmmjUqn5QTzjDU4.jpg" description="",Clube de Assassinos
+http://lismeo.com/movie/tambosi/zSv4UR/392639.mp4
+#EXTINF:-1 type="video" tvg-id="Assalto na Paulista" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg" description="",Assalto na Paulista
+http://lismeo.com/movie/tambosi/zSv4UR/392642.mp4
+#EXTINF:-1 type="video" tvg-id="As Viúvas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTql8KyJYqcX49Lmdct7PMCgg63.jpg" description="",As Viúvas
+http://lismeo.com/movie/tambosi/zSv4UR/392652.mp4
+#EXTINF:-1 type="video" tvg-id="As Trambiqueiras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ldo9MFJ2bmA5qKd4sbjUUzJUUa8.jpg" description="",As Trambiqueiras
+http://lismeo.com/movie/tambosi/zSv4UR/392655.mp4
+#EXTINF:-1 type="video" tvg-id="As Semanas Mágicas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4G83nVZiPyFTQ6KBnWhEdKr3mX2.jpg" description="",As Semanas Mágicas
+http://lismeo.com/movie/tambosi/zSv4UR/392658.mp4
+#EXTINF:-1 type="video" tvg-id="As Passageiras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3DUvDoBOiaCXKw1JX09USlfXjkM.jpg" description="",As Passageiras
+http://lismeo.com/movie/tambosi/zSv4UR/392668.mp4
+#EXTINF:-1 type="video" tvg-id="As Panteras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZZogKW7RFV0MjmAP6zNF19mkKF.jpg" description="",As Panteras
+http://lismeo.com/movie/tambosi/zSv4UR/392671.mp4
+#EXTINF:-1 type="video" tvg-id="As Golpistas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbgjEUhsCtb9cNM5sXY5mtItgtW.jpg" description="",As Golpistas
+http://lismeo.com/movie/tambosi/zSv4UR/392674.mp4
+#EXTINF:-1 type="video" tvg-id="Artemis Fowl: O Mundo Secreto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg" description="",Artemis Fowl: O Mundo Secreto
+http://lismeo.com/movie/tambosi/zSv4UR/392684.mp4
+#EXTINF:-1 type="video" tvg-id="Argentina, 1985" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/isLWtcB9TK3wLlTzEny2dPH6beh.jpg" description="",Argentina, 1985
+http://lismeo.com/movie/tambosi/zSv4UR/392687.mp4
+#EXTINF:-1 type="video" tvg-id="Aquaman" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oB367uFcyU2uhGkFqo5RB4Evdji.jpg" description="",Aquaman
+http://lismeo.com/movie/tambosi/zSv4UR/392690.mp4
+#EXTINF:-1 type="video" tvg-id="Apresentando os Ricardos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5zh7btwM8px4991ZMl5k1NQUHaI.jpg" description="",Apresentando os Ricardos
+http://lismeo.com/movie/tambosi/zSv4UR/392700.mp4
+#EXTINF:-1 type="video" tvg-id="Apollo 11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/woLMRroHyoTGoXyxdEeBJEYBFtu.jpg" description="",Apollo 11
+http://lismeo.com/movie/tambosi/zSv4UR/392703.mp4
+#EXTINF:-1 type="video" tvg-id="Aos Amigos, A Lei" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gbQLfPpYZ0W0hCHN1pHzPuLN1ut.jpg" description="",Aos Amigos, A Lei
+http://lismeo.com/movie/tambosi/zSv4UR/392706.mp4
+#EXTINF:-1 type="video" tvg-id="Anónimo" tvg-logo="" description="",Anónimo
+http://lismeo.com/movie/tambosi/zSv4UR/392716.mp4
+#EXTINF:-1 type="video" tvg-id="Annabelle 3: De Volta para Casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg" description="",Annabelle 3: De Volta para Casa
+http://lismeo.com/movie/tambosi/zSv4UR/392719.mp4
+#EXTINF:-1 type="video" tvg-id="Anna: O Perigo Tem Nome" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg" description="",Anna: O Perigo Tem Nome
+http://lismeo.com/movie/tambosi/zSv4UR/392722.mp4
+#EXTINF:-1 type="video" tvg-id="Aniquilação" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6zjrtxoRweQ3huuyrlDTfvDrAV.jpg" description="",Aniquilação
+http://lismeo.com/movie/tambosi/zSv4UR/392732.mp4
+#EXTINF:-1 type="video" tvg-id="Animais Fantásticos: Os Segredos de Dumbledore" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg" description="",Animais Fantásticos: Os Segredos de Dumbledore
+http://lismeo.com/movie/tambosi/zSv4UR/392735.mp4
+#EXTINF:-1 type="video" tvg-id="Angry Birds 2: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMqAjEyj234escPleCthcmh84ka.jpg" description="",Angry Birds 2: O Filme
+http://lismeo.com/movie/tambosi/zSv4UR/392738.mp4
+#EXTINF:-1 type="video" tvg-id="Amor em Obras" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQLiCMQFC9pK0b5g9Qwnkl4D9yh.jpg" description="",Amor em Obras
+http://lismeo.com/movie/tambosi/zSv4UR/392748.mp4
+#EXTINF:-1 type="video" tvg-id="Amor e Monstros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b77MZUZQJjbmyL4CS2EyOBRUngD.jpg" description="",Amor e Monstros
+http://lismeo.com/movie/tambosi/zSv4UR/392751.mp4
+#EXTINF:-1 type="video" tvg-id="Amor com Data Marcada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vsuhSOLAaEoZGR4paPFgxE29jIn.jpg" description="",Amor com Data Marcada
+http://lismeo.com/movie/tambosi/zSv4UR/392754.mp4
+#EXTINF:-1 type="video" tvg-id="Amor ao Primeiro Beijo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKBWGgsUCjoc5x3zdQuJUvozqKh.jpg" description="",Amor ao Primeiro Beijo
+http://lismeo.com/movie/tambosi/zSv4UR/392765.mp4
+#EXTINF:-1 type="video" tvg-id="Amizade de Férias" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IOAGHxkLSDTfdoCxqNiO1pVi4m.jpg" description="",Amizade de Férias
+http://lismeo.com/movie/tambosi/zSv4UR/392768.mp4
+#EXTINF:-1 type="video" tvg-id="Amizade de Férias 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRfkaDKu7YK5htNIvkHtxdplAvG.jpg" description="",Amizade de Férias 2
+http://lismeo.com/movie/tambosi/zSv4UR/392771.mp4
+#EXTINF:-1 type="video" tvg-id="Ambulância: Um Dia de Crime" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg" description="",Ambulância: Um Dia de Crime
+http://lismeo.com/movie/tambosi/zSv4UR/392782.mp4
+#EXTINF:-1 type="video" tvg-id="Altos Negócios" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ngM2zOxhJsYA7g15L3WFRTOgjZ.jpg" description="",Altos Negócios
+http://lismeo.com/movie/tambosi/zSv4UR/392785.mp4
+#EXTINF:-1 type="video" tvg-id="Alita: Anjo de Combate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUOP8nSOcwymKeOS9L4iJbLXG74.jpg" description="",Alita: Anjo de Combate
+http://lismeo.com/movie/tambosi/zSv4UR/392788.mp4
+#EXTINF:-1 type="video" tvg-id="Alguém Que Eu Costumava Conhecer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7LufNqf6zrz9u112fNcn19Zr8W.jpg" description="",Alguém Que Eu Costumava Conhecer
+http://lismeo.com/movie/tambosi/zSv4UR/392798.mp4
+#EXTINF:-1 type="video" tvg-id="Alerta Máximo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yuyOVARnEHZPBmaY1mDvF4woel.jpg" description="",Alerta Máximo
+http://lismeo.com/movie/tambosi/zSv4UR/392801.mp4
+#EXTINF:-1 type="video" tvg-id="Aladdin" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1d8HShFOmSWDwvqtvPEZqzlZbYl.jpg" description="",Aladdin
+http://lismeo.com/movie/tambosi/zSv4UR/392804.mp4
+#EXTINF:-1 type="video" tvg-id="Agente Stone" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EpaPaKozP2b8L1hJekBFI75gCm.jpg" description="",Agente Stone
+http://lismeo.com/movie/tambosi/zSv4UR/392814.mp4
+#EXTINF:-1 type="video" tvg-id="Agente Oculto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg" description="",Agente Oculto
+http://lismeo.com/movie/tambosi/zSv4UR/392817.mp4
+#EXTINF:-1 type="video" tvg-id="Adoráveis Mulheres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dwhsiuvNyQmA9ytp3T40uz4MOv.jpg" description="",Adoráveis Mulheres
+http://lismeo.com/movie/tambosi/zSv4UR/392820.mp4
+#EXTINF:-1 type="video" tvg-id="Adão Negro" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/soHjr03YMSe5uUMaEQEe1lC145O.jpg" description="",Adão Negro
+http://lismeo.com/movie/tambosi/zSv4UR/392825.mp4
+#EXTINF:-1 type="video" tvg-id="Ad Astra - Rumo às Estrelas" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg" description="",Ad Astra - Rumo às Estrelas
+http://lismeo.com/movie/tambosi/zSv4UR/392828.mp4
+#EXTINF:-1 type="video" tvg-id="Abracadabra 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8G7EaPTocE0ok3YNxo972woo9EP.jpg" description="",Abracadabra 2
+http://lismeo.com/movie/tambosi/zSv4UR/392831.mp4
+#EXTINF:-1 type="video" tvg-id="Abominável" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9HbRAhSn67t2aMFEAiI9tMWnin.jpg" description="",Abominável
+http://lismeo.com/movie/tambosi/zSv4UR/392841.mp4
+#EXTINF:-1 type="video" tvg-id="A Vida Invisível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5Ia6cQXeJRjnHMBmZx0JF9JSwc.jpg" description="",A Vida Invisível
+http://lismeo.com/movie/tambosi/zSv4UR/392844.mp4
+#EXTINF:-1 type="video" tvg-id="A Ursa Polar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg" description="",A Ursa Polar
+http://lismeo.com/movie/tambosi/zSv4UR/392847.mp4
+#EXTINF:-1 type="video" tvg-id="A Última Fonte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2SPbWtkYdB7k5YZlJ6J4vjr1yO.jpg" description="",A Última Fonte
+http://lismeo.com/movie/tambosi/zSv4UR/392857.mp4
+#EXTINF:-1 type="video" tvg-id="A Última Coisa que Ele Queria" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wulTQYc4Ac970mwf5F5ewhNSBtE.jpg" description="",A Última Coisa que Ele Queria
+http://lismeo.com/movie/tambosi/zSv4UR/392860.mp4
+#EXTINF:-1 type="video" tvg-id="A Terra e o Sangue" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qje1KVE0ceIaAzo3KT3zRzR53f4.jpg" description="",A Terra e o Sangue
+http://lismeo.com/movie/tambosi/zSv4UR/392863.mp4
+#EXTINF:-1 type="video" tvg-id="A Sentinela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/56Z9eh4k9pzR6Yhy201nq2Qoa0n.jpg" description="",A Sentinela
+http://lismeo.com/movie/tambosi/zSv4UR/392873.mp4
+#EXTINF:-1 type="video" tvg-id="A Queda" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ey5j9PzI1S0jsMPuN8H9ldrGzuX.jpg" description="",A Queda
+http://lismeo.com/movie/tambosi/zSv4UR/392876.mp4
+#EXTINF:-1 type="video" tvg-id="A Pequena Sereia" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1U9MAMBTAb0MFK13DiSdVZhds4z.jpg" description="",A Pequena Sereia
+http://lismeo.com/movie/tambosi/zSv4UR/392879.mp4
+#EXTINF:-1 type="video" tvg-id="A Mula" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg" description="",A Mula
+http://lismeo.com/movie/tambosi/zSv4UR/392889.mp4
+#EXTINF:-1 type="video" tvg-id="A Morte do Demônio: A Ascensão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5E4nVa3dXTHG2zx9iO7b0UIMsa7.jpg" description="",A Morte do Demônio: A Ascensão
+http://lismeo.com/movie/tambosi/zSv4UR/392892.mp4
+#EXTINF:-1 type="video" tvg-id="A Máquina Infernal" tvg-logo="http://109.236.81.144:80/images/XP8ozGU9HrMvJaYvAm_D5O14ND6VTiOliQnp_RI_9WFxG3skG2C-HPpH3d7mEIvkQ02ljpBYcFxGatSkaLGkgiYXI5_j_hFwJFow1cZrOSQ.jpg" description="",A Máquina Infernal
+http://lismeo.com/movie/tambosi/zSv4UR/392895.mp4
+#EXTINF:-1 type="video" tvg-id="A Mansão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWLByXVaPaxxqX0wnCPAm9AccIq.jpg" description="",A Mansão
+http://lismeo.com/movie/tambosi/zSv4UR/392909.mp4
+#EXTINF:-1 type="video" tvg-id="A Maldição da Chorona" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D8MtUYt9ojKmKvyeXpsfZtDDgw.jpg" description="",A Maldição da Chorona
+http://lismeo.com/movie/tambosi/zSv4UR/392912.mp4
+#EXTINF:-1 type="video" tvg-id="A Mãe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OeWHBMifiRPMz6eS23miS5ttED.jpg" description="",A Mãe
+http://lismeo.com/movie/tambosi/zSv4UR/392922.mp4
+#EXTINF:-1 type="video" tvg-id="A Jogada de Chang" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4bsfG5GcGJLwvQEvUVugLUmyuw.jpg" description="",A Jogada de Chang
+http://lismeo.com/movie/tambosi/zSv4UR/392925.mp4
+#EXTINF:-1 type="video" tvg-id="A Guerra do Amanhã" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWQ3hI78Az2RHfzDpEuvougqUz7.jpg" description="",A Guerra do Amanhã
+http://lismeo.com/movie/tambosi/zSv4UR/392928.mp4
+#EXTINF:-1 type="video" tvg-id="A Freira" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/28vxo5DvV0nHWTbYQL8gN3hmuli.jpg" description="",A Freira
+http://lismeo.com/movie/tambosi/zSv4UR/392938.mp4
+#EXTINF:-1 type="video" tvg-id="A Fita Cassete" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Y5CcWHLlTKlYxJVWWQkvhWVELy.jpg" description="",A Fita Cassete
+http://lismeo.com/movie/tambosi/zSv4UR/392941.mp4
+#EXTINF:-1 type="video" tvg-id="Air: A História Por Trás do Logo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg" description="",Air: A História Por Trás do Logo
+http://lismeo.com/movie/tambosi/zSv4UR/392944.mp4
+#EXTINF:-1 type="video" tvg-id="A Festa de Formatura" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5P45oHuKIuMD1YYtksPuJ7sveQ.jpg" description="",A Festa de Formatura
+http://lismeo.com/movie/tambosi/zSv4UR/392955.mp4
+#EXTINF:-1 type="video" tvg-id="A Fera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ywXcLxwAir7kj7mxDzxjOXDvl5u.jpg" description="",A Fera
+http://lismeo.com/movie/tambosi/zSv4UR/392958.mp4
+#EXTINF:-1 type="video" tvg-id="A Família Addams 2: Pé na Estrada" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGSZSlmJqshcxh6Usgx9Um0utK0.jpg" description="",A Família Addams 2: Pé na Estrada
+http://lismeo.com/movie/tambosi/zSv4UR/392961.mp4
+#EXTINF:-1 type="video" tvg-id="A Extraordinária Garota Chamada Estrela" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYvD1TZfGF2RHe1078MULl78nsV.jpg" description="",A Extraordinária Garota Chamada Estrela
+http://lismeo.com/movie/tambosi/zSv4UR/392973.mp4
+#EXTINF:-1 type="video" tvg-id="A Dama e o Vagabundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKBA03V9LvfpvcNfUgAwdydRSA1.jpg" description="",A Dama e o Vagabundo
+http://lismeo.com/movie/tambosi/zSv4UR/392976.mp4
+#EXTINF:-1 type="video" tvg-id="A Cratera" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg" description="",A Cratera
+http://lismeo.com/movie/tambosi/zSv4UR/392979.mp4
+#EXTINF:-1 type="video" tvg-id="A Cor Que Caiu do Espaço" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg" description="",A Cor Que Caiu do Espaço
+http://lismeo.com/movie/tambosi/zSv4UR/392990.mp4
+#EXTINF:-1 type="video" tvg-id="A casa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTH1GW8C1OwEr2UAzgLvl5N7RAN.jpg" description="",A casa
+http://lismeo.com/movie/tambosi/zSv4UR/392993.mp4
+#EXTINF:-1 type="video" tvg-id="A Caminho do Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" description="",A Caminho do Verão
+http://lismeo.com/movie/tambosi/zSv4UR/393006.mp4
+#EXTINF:-1 type="video" tvg-id="A Babá" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg" description="",A Babá
+http://lismeo.com/movie/tambosi/zSv4UR/393012.mp4
+#EXTINF:-1 type="video" tvg-id="A Babá: Rainha da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg" description="",A Babá: Rainha da Morte
+http://lismeo.com/movie/tambosi/zSv4UR/393023.mp4
+#EXTINF:-1 type="video" tvg-id="1917" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0S4a7g5q35NYE2483H3lSwY0up.jpg" description="",1917
+http://lismeo.com/movie/tambosi/zSv4UR/393026.mp4
+#EXTINF:-1 type="video" tvg-id="100 Coisas para Fazer Antes de Virar Zumbi" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwyleO7PqNNkX66stvANWP01p9I.jpg" description="",100 Coisas para Fazer Antes de Virar Zumbi
+http://lismeo.com/movie/tambosi/zSv4UR/393029.mp4
+#EXTINF:-1 type="video" tvg-id="80 for Brady: Quatro Amigas e uma Paixão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZBOc7sXmK618zujlxaiyLTq2e0.jpg" description="",80 for Brady: Quatro Amigas e uma Paixão
+http://lismeo.com/movie/tambosi/zSv4UR/393040.mp4
+#EXTINF:-1 type="video" tvg-id="65: Ameaça Pré-Histórica" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwAUZ2yD6mgQl2lhuEkRDpl5lmR.jpg" description="",65: Ameaça Pré-Histórica
+http://lismeo.com/movie/tambosi/zSv4UR/393043.mp4
+#EXTINF:-1 type="video" tvg-id="22 de Julho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fO1YmU5DvYdudmODO25PpRekiMX.jpg" description="",22 de Julho
+http://lismeo.com/movie/tambosi/zSv4UR/393046.mp4
+#EXTINF:-1 type="video" tvg-id="15h17: Trem Para Paris" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLfcN4pTbG78sxS4rQGciJCoNAb.jpg" description="",15h17: Trem Para Paris
+http://lismeo.com/movie/tambosi/zSv4UR/393058.mp4
+#EXTINF:-1 type="video" tvg-id="7 Prisioneiros" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dCIBGXnIuPdP1gmlElEDMTcIGT.jpg" description="",7 Prisioneiros
+http://lismeo.com/movie/tambosi/zSv4UR/393061.mp4
+#EXTINF:-1 type="video" tvg-id="007: Sem Tempo para Morrer" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/luE0KG1rWfUptbgNtlNtL5sihyd.jpg" description="",007: Sem Tempo para Morrer
+http://lismeo.com/movie/tambosi/zSv4UR/393064.mp4
+#EXTINF:-1 type="video" tvg-id="Um Lindo Dia na Vizinhança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qenbW0aWvW8bxNb0XVDPeIUwFVu.jpg" description="",Um Lindo Dia na Vizinhança
+http://lismeo.com/movie/tambosi/zSv4UR/393077.mp4
+#EXTINF:-1 type="video" tvg-id="Um Ano Inesquecível - Verão" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zEjG2LXebr8rpgZQQA6J2YOl77i.jpg" description="",Um Ano Inesquecível - Verão
+http://lismeo.com/movie/tambosi/zSv4UR/393080.mp4
+#EXTINF:-1 type="video" tvg-id="Um Espião Animal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbFAWjh0PqB16PBuQAbZvaMl3TJ.jpg" description="",Um Espião Animal
+http://lismeo.com/movie/tambosi/zSv4UR/393090.mp4
+#EXTINF:-1 type="video" tvg-id="Um Diário para Jordan" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iauAMW7xAkh04riX5MudCblQYTJ.jpg" description="",Um Diário para Jordan
+http://lismeo.com/movie/tambosi/zSv4UR/393093.mp4
+#EXTINF:-1 type="video" tvg-id="Zona de Combate" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vnVQx7MJMwTvqcn5pkYDImxzlMg.jpg" description="",Zona de Combate
+http://lismeo.com/movie/tambosi/zSv4UR/393096.mp4
+#EXTINF:-1 type="video" tvg-id="Zumbilândia: Atire Duas Vezes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg" description="",Zumbilândia: Atire Duas Vezes
+http://lismeo.com/movie/tambosi/zSv4UR/393106.mp4
+#EXTINF:-1 type="video" tvg-id="Tudo é Possível" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg" description="",Tudo é Possível
+http://lismeo.com/movie/tambosi/zSv4UR/393109.mp4
+#EXTINF:-1 type="video" tvg-id="TÁR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FSlyzf5qXOOxAthSFHzxB7iVGg.jpg" description="",TÁR
+http://lismeo.com/movie/tambosi/zSv4UR/393112.mp4
+#EXTINF:-1 type="video" tvg-id="Z-O-M-B-I-E-S 3" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QxbpQgzmTQjezu9YOeBk8JFzKg.jpg" description="",Z-O-M-B-I-E-S 3
+http://lismeo.com/movie/tambosi/zSv4UR/393122.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwQo1ehiPBqAbiVqD6rfNM8GCFE.jpg" description="",X-Men 2
+http://lismeo.com/movie/tambosi/zSv4UR/393125.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: Primeira Classe" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" description="",X-Men: Primeira Classe
+http://lismeo.com/movie/tambosi/zSv4UR/393128.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: O Filme" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" description="",X-Men: O Filme
+http://lismeo.com/movie/tambosi/zSv4UR/393138.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: O Confronto Final" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7klqeHzrukZTFVgB4xEOIzqKcZ3.jpg" description="",X-Men: O Confronto Final
+http://lismeo.com/movie/tambosi/zSv4UR/393141.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: Fênix Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" description="",X-Men: Fênix Negra
+http://lismeo.com/movie/tambosi/zSv4UR/393144.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: Dias de um Futuro Esquecido" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bUm0nSsTA6kfFfZHgNbNFisVe7M.jpg" description="",X-Men: Dias de um Futuro Esquecido
+http://lismeo.com/movie/tambosi/zSv4UR/393154.mp4
+#EXTINF:-1 type="video" tvg-id="X-Men: Apocalipse" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg" description="",X-Men: Apocalipse
+http://lismeo.com/movie/tambosi/zSv4UR/393157.mp4
+#EXTINF:-1 type="video" tvg-id="X: A Marca da Morte" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg" description="",X: A Marca da Morte
+http://lismeo.com/movie/tambosi/zSv4UR/393170.mp4
+#EXTINF:-1 type="video" tvg-id="Wolverine: Imortal" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg" description="",Wolverine: Imortal
+http://lismeo.com/movie/tambosi/zSv4UR/393173.mp4
+#EXTINF:-1 type="video" tvg-id="WiFi Ralph: Quebrando a Internet" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnpTKpAZ1RBjMzewtsC1fmWWXd0.jpg" description="",WiFi Ralph: Quebrando a Internet
+http://lismeo.com/movie/tambosi/zSv4UR/393176.mp4
+#EXTINF:-1 type="video" tvg-id="White Boy Rick" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33Gm5AZsg8e7sDvk71oePbE6lhk.jpg" description="",White Boy Rick
+http://lismeo.com/movie/tambosi/zSv4UR/393186.mp4
+#EXTINF:-1 type="video" tvg-id="Volta Pra Mim" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg" description="",Volta Pra Mim
+http://lismeo.com/movie/tambosi/zSv4UR/393189.mp4
+#EXTINF:-1 type="video" tvg-id="Vizinhos" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oT7388wlquvpGN3LPxVeD849QAI.jpg" description="",Vizinhos
+http://lismeo.com/movie/tambosi/zSv4UR/393202.mp4
+#EXTINF:-1 type="video" tvg-id="Viúva Negra" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKq1Vlw0Bqe2EEvdmIkkkgPQAGf.jpg" description="",Viúva Negra
+http://lismeo.com/movie/tambosi/zSv4UR/393205.mp4
+#EXTINF:-1 type="video" tvg-id="Vingança" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tUMY2i0e0KUfslvjBBnRYGBxhL4.jpg" description="",Vingança
+http://lismeo.com/movie/tambosi/zSv4UR/393208.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores: Ultimato" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg" description="",Vingadores: Ultimato
+http://lismeo.com/movie/tambosi/zSv4UR/393216.mp4
+#EXTINF:-1 type="video" tvg-id="Vingadores: Guerra Infinita" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg" description="",Vingadores: Guerra Infinita
+http://lismeo.com/movie/tambosi/zSv4UR/393217.mp4
+#EXTINF:-1 type="video" tvg-id="Vida" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tXR9jdJnSZgS6ATT2dYT0nZ1RjO.jpg" description="",Vida
+http://lismeo.com/movie/tambosi/zSv4UR/393218.mp4
+#EXTINF:-1 type="video" tvg-id="Vício Perfeito" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bFE8TlLU7r3IwwGHN7au8xPIds.jpg" description="",Vício Perfeito
+http://lismeo.com/movie/tambosi/zSv4UR/393227.mp4
+#EXTINF:-1 type="video" tvg-id="Órfã 2: A Origem" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/okgBTByIqwRotmfg3ljUBAyVmcW.jpg" description="",Órfã 2: A Origem
+http://lismeo.com/movie/tambosi/zSv4UR/393230.mp4
+#EXTINF:-1 type="video" tvg-id="Os Fabelmans" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BWHoAAcKnGtowRXju2c2RBrT0m.jpg" description="",Os Fabelmans
+http://lismeo.com/movie/tambosi/zSv4UR/399994.mp4
+#EXTINF:-1 type="video" tvg-id="Aterrorizante" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0m2BK6eCmaSJCDwS8JbkqDSg9P.jpg" description="",Aterrorizante
+http://lismeo.com/movie/tambosi/zSv4UR/400005.mp4
+#EXTINF:-1 type="video" tvg-id="Valentes" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6aAs9edaRQMwZIprxeDDdTdB9K.jpg" description="",Valentes
+http://lismeo.com/movie/tambosi/zSv4UR/400010.mp4
+#EXTINF:-1 type="video" tvg-id="O Pior Vizinho do Mundo" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oXHNdN1hjg6RFQ5NP618KSAIrdE.jpg" description="",O Pior Vizinho do Mundo
+http://lismeo.com/movie/tambosi/zSv4UR/400021.mp4
+#EXTINF:-1 type="video" tvg-id="Observador" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/grEpsXD8Mwj5CGn5iWzDCNqZm2D.jpg" description="",Observador
+http://lismeo.com/movie/tambosi/zSv4UR/400027.mp4
+#EXTINF:-1 type="video" tvg-id="M3GAN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg" description="",M3GAN
+http://lismeo.com/movie/tambosi/zSv4UR/400034.mp4
